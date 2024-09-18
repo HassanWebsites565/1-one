@@ -1,1 +1,2 @@
 This is fix file inside one foldergit 
+Another bug fix in fix file
