@@ -1,2 +1,4 @@
 This file Two  for Text Git Course
 Adding more content to file 2 Two .
+
+Another marketing  bug fix in file 2 on bug fix branch
