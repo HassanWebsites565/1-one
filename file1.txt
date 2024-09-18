@@ -1,3 +1,4 @@
 This file 1 One for Text Git Course
 
 Test the editor
+Another bug fix
