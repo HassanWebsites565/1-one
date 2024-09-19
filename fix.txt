@@ -1,2 +1,3 @@
-This is fix file inside one foldergit 
+This is fix file inside one folder git 
 Another bug fix in fix file
+This is a bug fix branch
